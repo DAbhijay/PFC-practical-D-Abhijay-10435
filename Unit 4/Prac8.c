@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
 // 1. Function to sum digits of a number
 int sumOfDigits(int n) {
     int sum = 0;
@@ -44,3 +48,14 @@ int main() {
     
     return 0;
 }
+
+/* Sum of digits of 4123: 10
+Before swap: x = 5, y = 10
+After swap: x = 10, y = 5
+Triangle of height 5:
+*
+**
+***
+****
+*****
+*/

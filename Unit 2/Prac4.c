@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
 // COMPILE-TIME ERROR 1: Syntax Error - Missing semicolon
 // int x = 5)
 

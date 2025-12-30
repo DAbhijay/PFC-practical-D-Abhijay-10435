@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
 int main() {
     int n = 4;
     
@@ -42,3 +46,28 @@ int main() {
     
     return 0;
 }
+
+/* Diamond:
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+
+Hourglass:
+*******
+ *****
+  ***
+   *
+  ***
+ *****
+*******
+
+Alphabet:
+A
+AB
+ABC
+ABCD
+*/

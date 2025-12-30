@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
 int main() {
     // Declare variables of different types
     int num1, num2;
@@ -50,3 +52,24 @@ int main() {
     
     return 0;
 }
+
+/* Enter an integer: 5
+Enter a float: 3.14
+Enter a character: A
+Enter a double: 5.69
+Enter another integer for swapping: 24
+
+--- Original Values ---
+Integer 1: 5
+Integer 2: 24
+Float: 3.140000
+Character: A
+Double: 5.690000
+
+--- After Swapping ---
+Integer 1: 24
+Integer 2: 5
+
+--- Pointers ---
+Address of num1: 0061FF10, Value via pointer: 24
+Address of fNum: 0061FF08, Value via pointer: 3.140000 */

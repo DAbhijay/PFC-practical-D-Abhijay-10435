@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
+
 // 1. Odd/Even check using if-else
 void checkOddEven(int num) {
     if (num % 2 == 0)
@@ -63,3 +68,11 @@ int main() {
     
     return 0;
 }
+
+/* 10 is Even
+7 is Odd
+Max of 5, 10, 3: 10
+Max of 8, 3: 8
+15 + 5 = 20
+15 * 5 = 75
+*/

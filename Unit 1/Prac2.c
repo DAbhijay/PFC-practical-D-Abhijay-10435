@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
 int main() {
     int num1, num2, sum, largest;
     
@@ -17,3 +21,7 @@ int main() {
     
     return 0;
 }
+
+/* Enter first number: 6
+Enter second number: 7
+Sum: 13 */

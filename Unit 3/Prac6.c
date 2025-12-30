@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/* Name: Abhijay
+Age: 25
+ERP: 10435 */
+
+
 // 1. Print numbers from a to b
 void printNumbers(int a, int b) {
     printf("Numbers from %d to %d:\n", a, b);
@@ -53,3 +58,8 @@ int main() {
     
     return 0;
 }
+
+/* ATM Pin Authentication:
+Enter PIN (Attempts left: 3): 1234
+Access Granted!
+*/
